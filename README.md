@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Grustentier
-- 👀 I’m interested in coding for the field of digital forensics and there I like to support the daily work in digital image and video analysis.
+- Application of scientific methods for digitizing forensic casework with the background of a bioinformatician
+- 👀 I’m currently involved in simple scripting for stacked image (video frame) processing.
 - 🌱 I’m currently learning ... pytorch
 - 💞️ I’m looking to collaborate on digital image and video analysis
 - 📫 How to reach me ... grunert1@hs-mittweida.de
